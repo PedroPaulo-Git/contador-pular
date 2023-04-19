@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(255, 102, 0);
+    font: normal 15pt Arial;
+    
+    
+    }
+    header{
+        color: aliceblue;
+        text-align: center;
+        font-size: 50px;
+        padding-bottom: 25px;
+    
+    }
+    section{
+        background: white;
+        border-radius: 15px;
+        padding: 15px;
+        width: 500px;
+        margin: auto;
+        box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.411);
+    
+    
+    }
+    
+    div{
+         text-align: 100px;
+         padding: 5px;
+         width: 200px;
+        
+     }
+     div#c{
+         width: auto;
+     }
+
+    footer{
+        color: aliceblue;
+        text-align: center;
+        font-style: italic;
+    
+    }
